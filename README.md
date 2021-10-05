@@ -6,7 +6,7 @@ Currently really interested in distributed systems & parallel programming.
 
 Some of my UMD coursework that I'd like to make use of in my career:
 * CMSC818E Distributed Systems
-* CMSC498X Parallel Programming
+* CMSC818X Parallel Programming
 * HACS408T IoT Security
 * CMSC216 Computer Systems
 
