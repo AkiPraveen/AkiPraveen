@@ -2,7 +2,7 @@
 
 Software Engineer at Athelas ⭕ solving problems related to backend engineering, databases, and embedded software.
 
-Currently really interested in distributed systems & parallel programming. Ask me about the distributed filesystem I'm working on recreating based on a few of the papers I've been looking at! [me (at) akilesh.xyz](me@akilesh.xyz)
+Currently really interested in distributed systems & parallel programming. Ask me about the distributed filesystem I'm working on recreating based on a few of the papers I've been looking at! Email [me (at) akilesh.xyz](me@akilesh.xyz) ✉️
 
 More about me- [akilesh.xyz](https://akilesh.xyz)
 
