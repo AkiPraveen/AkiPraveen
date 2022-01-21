@@ -1,9 +1,7 @@
-# 👋 Hi! I'm Aki Praveen
+### 👋 hi! I'm Aki Praveen
 
-Software Engineer at YC healthcare startup Athelas ⭕ solving problems related to backend engineering & databases.
+* ⭕ eng @ Athelas solving problems related to backend engineering & databases in enterprise healthcare.
+* 📚 reading plenty of books- check out my [reading log]()
+* 📧 reach out! let's talk about books, biking and travel! [`me (at) akilesh.xyz`](me@akilesh.xyz)
 
-The goal here is to make robust health accessible and affordable in the United States through meaningful software products. Let me know if you'd like to work alongside me and we can talk!
-
-Currently really interested in distributed systems & parallel programming. Ask me about the distributed filesystem I'm working on recreating based on a few of the papers I've been looking at! Email [me (at) akilesh.xyz](me@akilesh.xyz) ✉️
-
-More about me- [akilesh.xyz](https://akilesh.xyz)
+more about me- [`akilesh.xyz`](https://akilesh.xyz)
