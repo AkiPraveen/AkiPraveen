@@ -1,4 +1,4 @@
-### 👋 hi! I'm Aki Praveen
+### hello, i'm aki praveen, a swe in SF 🌉
 
 * ⭕ eng @ Athelas solving problems related to backend engineering & databases in enterprise healthcare.
 * 📚 reading plenty of books- check out my [reading log]()
