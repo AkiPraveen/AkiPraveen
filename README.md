@@ -1,6 +1,6 @@
 ### hello, i'm aki praveen, a swe in SF 🌉
 
-* ⭕ eng @ Athelas architecting & building the first enterprise-scale remote patient monitoring API
+* ⭕ eng @ Athelas working towards affordable, robust healthcare infrastructure in America via technology
 * 📚 reading plenty of books- check out my [reading log](https://aki-internal.notion.site/aki-internal/Aki-s-Reading-List-b2f9f31753374bde9c2dc80bd8d7db5f)
 * 📧 reach out! let's talk about books, biking and travel! [`me (at) akilesh.xyz`](me@akilesh.xyz)
 
