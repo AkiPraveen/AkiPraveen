@@ -1,8 +1,8 @@
 ### hello, i'm aki praveen, a swe in SF 🌉
 
-* eng @ a stealth startup in SF! 
-* 📚 reading plenty of books- check out my [reading log](https://aki-internal.notion.site/aki-internal/Aki-s-Reading-List-b2f9f31753374bde9c2dc80bd8d7db5f)
-* 📧 reach out! let's talk about books, biking and travel! [`me (at) akilesh.xyz`](me@akilesh.xyz)
+* eng @ a vertical SaaS startup, taking a transportation management system from 0 to 1 in SF! 
+* 📚 currently reading: *Build* by *Tony Fadell*. 
+* 📧 reach out! let's talk about books, poker, badminton, and vertical SaaS! [`me (at) akilesh.xyz`](me@akilesh.xyz)
 * ⛓️ stakeholder in the web3 based future! [`akilesh.eth`](akilesh.eth)
 
 more about me- [`akilesh.xyz`](https://akilesh.xyz)
