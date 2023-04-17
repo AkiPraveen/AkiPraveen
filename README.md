@@ -1,6 +1,6 @@
 ### hi 🌊 i'm aki praveen, a product swe in SF 🌉
 curr:
-onto the next adventure!
+* onto the next adventure!
 
 prev: 
 * eng @ 🚚 Cashew, a [vertical SaaS startup in the transportation industry](https://withcashew.com/)
