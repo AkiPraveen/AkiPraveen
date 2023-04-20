@@ -1,6 +1,7 @@
 ### hi 🌊 i'm aki praveen, a product swe in SF 🌉
 curr:
 * onto the next adventure!
+* writing to [`stdout`](https://akilesh.xyz/stdout/)
 
 prev: 
 * eng @ 🚚 Cashew, a [vertical SaaS startup in the transportation industry](https://withcashew.com/)
