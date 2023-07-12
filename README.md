@@ -10,5 +10,6 @@ prev:
 
 My open source contributions are sparse because I mostly write code that makes money.
 
+![pixelated gigachad for amusement](https://github.com/AkiPraveen/AkiPraveen/blob/main/pixelchad.png?raw=true)
 
-Happy to share more information, email [me \[at\] akilesh \[dot\] xyz](mailto:me@akilesh.xyz) 
+Happy to share more information, email [me \[at\] akilesh \[dot\] xyz](mailto:me@akilesh.xyz) and let's chat!
