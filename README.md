@@ -8,6 +8,7 @@ prev:
 * eng @ ⭕️ Athelas, a [fast growing healthcare unicorn in the bay area (yc16)](https://www.athelas.com/)
 * cs student faculty @ 🏛️ UMCP, teaching a [class about building a computer in minecraft](https://www.cs.umd.edu/class/spring2020/cmsc389E/)
 
-let's connect!
-* mail [`me (at) akilesh.xyz`](me@akilesh.xyz)
-* more about me at [`akilesh.xyz`](https://akilesh.xyz)
+My open source contributions are sparse because I mostly write code that makes money.
+
+
+Happy to share more information, email [me \[at\] akilesh \[dot\] xyz](mailto:me@akilesh.xyz) 
