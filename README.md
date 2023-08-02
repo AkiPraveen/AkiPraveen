@@ -10,7 +10,7 @@ prev:
 
 -----
 
-My open source contributions are sparse because most of the code I write makes money.
+My open source contributions are sparse because most of the code I write actually makes money.
 
 ![pixelated gigachad for amusement](https://github.com/AkiPraveen/AkiPraveen/blob/main/pixelchad.png?raw=true)
 
