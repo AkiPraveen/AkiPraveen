@@ -1,6 +1,6 @@
 ### hi 🌊 i'm aki praveen, a product swe in SF 🌉
 curr:
-* eng @ ⬛ Index, a [team crafting a next generation data visualization suite (yc19)](https://index.app/)
+* eng @ ⬛ Index, building a [seriously incredible business insights tool (yc19)](https://index.app/)
 * writing to [`stdout`](https://akilesh.xyz/stdout/)
 
 prev: 
