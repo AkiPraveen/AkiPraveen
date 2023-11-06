@@ -9,6 +9,6 @@ prev:
 * cs student faculty @ 🏛️ UMCP, teaching a [class about building a computer in minecraft](https://www.cs.umd.edu/class/spring2020/cmsc389E/)
 
 -----
-Please note that my open source contributions are sparse because most of the code I write actually makes money.
+Please note that my open source contributions are sparse because most of the code I write makes money.
 
 email [me \[at\] akilesh \[dot\] xyz](mailto:me@akilesh.xyz), let's chat!
