@@ -1,7 +1,6 @@
 ### hi 🌊 i'm aki praveen, a product swe in SF 🌉
 curr:
 * eng @ ⬛ Index, building a [seriously incredible business insights tool (yc19)](https://index.app/)
-* writing to [`stdout`](https://akilesh.xyz/stdout/)
 
 prev: 
 * eng @ 🚚 Pallet, a [vertical SaaS startup in the transportation industry](https://withcashew.com/)
