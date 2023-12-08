@@ -1,13 +1,9 @@
-### hi 🌊 i'm aki praveen, a product swe in SF 🌉
-curr:
-* eng @ ⬛ Index, building a [seriously incredible business insights tool (yc19)](https://index.app/)
+![aki-qr](https://github.com/AkiPraveen/AkiPraveen/assets/10789158/4ac685d7-076e-48eb-83e7-697a0798cf82)
 
-prev: 
-* eng @ 🚚 Pallet, a [vertical SaaS startup in the transportation industry](https://withcashew.com/)
-* eng @ ⭕️ Athelas, a [fast growing healthcare unicorn in the bay area (yc16)](https://www.athelas.com/)
-* cs student faculty @ 🏛️ UMCP, teaching a [class about building a computer in minecraft](https://www.cs.umd.edu/class/spring2020/cmsc389E/)
+hi, i'm aki praveen
+
+- 📍 san francisco
+- 🏗️ building [the best in class business insights tool (yc19)](https://index.app/)
 
 -----
-Please note that my open source contributions are sparse because most of the code I write makes money.
-
-email [me \[at\] akilesh \[dot\] xyz](mailto:me@akilesh.xyz), let's chat!
+*Please note that my open source contributions are sparse because most of the code that I write makes money.*
