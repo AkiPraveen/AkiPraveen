@@ -2,6 +2,6 @@
 
 hi, i'm aki praveen. 
 
-my contributions are a bit sparse these days because my foot is all the way down on the gas pedal on my [work as a software developer working on the GenAI data engine at scale AI](https://github.com/akilesh-scale).
+my contributions are a bit sparse these days because my foot is all the way down on the gas pedal on my [work as a software developer for the GenAI data engine at scale AI](https://github.com/akilesh-scale).
 
 - 📍 san francisco
