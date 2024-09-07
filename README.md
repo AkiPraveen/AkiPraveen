@@ -2,4 +2,5 @@
 
 aki is coding again:) 
 
-- 📍 san francisco
+curr: retool
+prev: scale ai <- index <- pallet <- athelas
