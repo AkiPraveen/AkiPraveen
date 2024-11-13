@@ -1,6 +1,9 @@
-aki is coding again:) 
+![image](https://github.com/user-attachments/assets/82613f4a-510a-4c70-86ee-74f2161f4aaa)
 
-```
-curr: retool
-prev: scale ai <- index <- pallet <- athelas
-```
+
+aki is coding again
+
+swe @ retool
+
+~~scale ai~~, ~~athelas~~
+
