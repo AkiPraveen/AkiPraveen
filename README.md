@@ -3,7 +3,7 @@
 
 aki is coding again
 
-swe @ retool
+swe @ retool ([akitool](https://github.com/akitool))
 
-~~scale ai~~, ~~athelas~~
+~~scale ai ([akilesh-scale](https://github.com/akilesh-scale))~~, ~~athelas~~
 
